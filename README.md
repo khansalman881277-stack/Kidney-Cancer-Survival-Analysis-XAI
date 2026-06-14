@@ -273,12 +273,10 @@ python explainability.py
 # 👨‍💻 Authors
 
 ### Salman Khan
-### Syed Muhammad Shayal
-### Syed Abdul Ahad
 
 ## Supervisor
 
-Dr. Sahib Khan
+Dr. Sahib Khan — Assistant Professor, Department of Telecommunication Engineering, UET Mardan
 
 ---
 
