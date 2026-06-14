@@ -270,7 +270,7 @@ python explainability.py
 - Clinical Web Application
 - Additional Dataset Validation
 
-# 👨‍💻 Authors
+# 👨‍💻 Author
 
 ### Salman Khan
 
