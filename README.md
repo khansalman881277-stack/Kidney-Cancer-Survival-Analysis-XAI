@@ -273,6 +273,7 @@ python explainability.py
 # 👨‍💻 Author
 
 ### Salman Khan
+BSc Telecommunication Engineering | AI & Machine Learning Enthusiast
 
 ## Supervisor
 
